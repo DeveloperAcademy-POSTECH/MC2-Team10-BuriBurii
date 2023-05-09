@@ -21,3 +21,4 @@ struct MC2BuriBuriApp: App {
 }
 
 // 페페: 수정
+// 페페: 이슈 확인용
