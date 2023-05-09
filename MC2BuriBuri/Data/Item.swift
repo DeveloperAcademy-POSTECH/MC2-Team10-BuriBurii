@@ -22,3 +22,5 @@ extension Item: Equatable {
         return lhs.id == rhs.id && lhs.id == rhs.id
     }
 }
+
+//Test입니다.
