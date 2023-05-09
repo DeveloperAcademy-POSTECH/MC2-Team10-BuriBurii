@@ -20,4 +20,4 @@ struct MC2BuriBuriApp: App {
     }
 }
 
-// 페페: 수정
+// 김페페페페페페페페
